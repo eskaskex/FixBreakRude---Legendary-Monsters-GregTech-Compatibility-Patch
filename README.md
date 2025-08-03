@@ -168,13 +168,13 @@ All Rights Reserved
 
 ## 👥 Авторы
 
-FixBreakRude Team
+Leviathan Team
 
 ---
 
 ## 🔗 Связанные ссылки
 
-- [GregTech Community Edition Unofficial](https://github.com/GregTechCEu/GregTechCEu)
+- [GregTech Community Edition Unofficial]([https://github.com/GregTechCEu/GregTechCEu](https://github.com/GregTechCEu/GregTech-Modern))
 - [Legendary Monsters](https://www.curseforge.com/minecraft/mc-mods/legendary-monsters)
 
 ## 📝 История версий
@@ -183,4 +183,5 @@ FixBreakRude Team
 - ✅ Исправление проблемы добычи блоков GregTech
 - ✅ Восстановление правильной скорости добычи
 - ✅ Конфигурируемые настройки
+
 - ✅ Подробное логирование для отладки 
