@@ -3,7 +3,7 @@ Specification-Title: fixbreakrude
 Specification-Vendor: FixBreakRude Team
 Specification-Version: 1
 Implementation-Title: FixBreakRude
-Implementation-Version: 1.0.0
+Implementation-Version: 1.1.0
 Implementation-Vendor: FixBreakRude Team
-Implementation-Timestamp: 2025-08-03T16:08:08+0700
+Implementation-Timestamp: 2025-08-04T22:45:58+0700
 
